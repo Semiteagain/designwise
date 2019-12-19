@@ -94,7 +94,7 @@ header a:hover{
 #showcase {
     min-height: 400px;
     width: auto;
-    background: url('https://source.unsplash.com/xrVDYZRGdw4') no-repeat 0 -270px;
+    background: url('https://source.unsplash.com/xrVDYZRGdw4') no-repeat;
     background-size: cover;
     text-align: center;
     color: #ffffff;
